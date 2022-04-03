@@ -1,7 +1,8 @@
 
-![Flutter app development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<h1 align="center">Hello there 👋, I'm Naol Abera .</h1>
+![Flutter app development](https://github.com/naolgithub/naolgithub/blob/main/animated%20flutter%20coding%20gif.jpg)
 
+
+<h1 align="center">Hello there 👋, I'm Naol Abera .</h1>
 <h3 align="center">I am self taught programmer who loves to create powerful and adorable mobile apps in flutter|dart to simplify everyday life
 A passionate mobile development and Cyber Security</h3>
 
