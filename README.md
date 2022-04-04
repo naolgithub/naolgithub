@@ -3,8 +3,8 @@
 
 
 <h1 align="center">Hello there 👋, I'm Naol Abera .</h1>
-<h3 align="center">I am self taught programmer who loves to create powerful and adorable mobile apps in flutter|dart to simplify everyday life
-A passionate mobile development and Cyber Security</h3>
+<h2 align="center">I am self taught programmer who loves to create powerful and adorable mobile apps in flutter|dart to simplify everyday life</h2>
+<h3 align="center">A passionate mobile development and Cyber Security</h3>
 
 
 
