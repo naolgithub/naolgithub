@@ -3,18 +3,16 @@
 
 
 <h1 align="center">Hello there 👋, I'm Naol Abera .</h1>
-<h2 align="center">I am Computer Engineering student who loves to create powerful mobile apps in flutter|dart to simplify everyday life</h2>
+<h2 align="center">As a Flutter Developer, I specialize in developing cross-platform mobile applications using Flutter SDK and Dart programming language. I have experience in integrating RESTful APIs and Firebase for real-time data synchronization and push notifications. I am proficient in utilizing Git version control for source code management and collaborating with a team of developers using agile methodologies. I possess strong skills in state management, third-party library integration, native integration, and maintaining code quality to ensure optimal performance and user experience. With a solid educational background in computer engineering, relevant work experience in Flutter or related technologies, I am equipped to take on challenging projects and deliver high-quality mobile applications that meet client needs and exceed user expectations.</h2>
 <h3 align="center">A passionate mobile development,DSA and Cyber Security</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naolgithub&label=Profile%20views&color=0e75b6&style=flat" alt="naolgithub" /> </p>
 
-- 💬 Ask me about **dart|flutter**
+- 💬 Ask me about **Dart|Java|Flutter**
 
 - 📫 How to reach me **naolcovered@gmail.com**
-
-- ⚡ Fun fact **I reckon I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
