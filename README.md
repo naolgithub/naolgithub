@@ -4,7 +4,7 @@
 
 <h1 align="center">👋, I'm Naol Abera .</h1>
 <h2 align="center">As a Mobile Engineer with 4+ years of experience, I specialize in developing both cross-platform mobile applications using Flutter SDK and Dart programming language and native android application development using Kotlin and Java. I am proficient in utilizing Git version control for source code management and collaborating with a team of developers using agile methodologies. I possess strong skills in clean architecture,TDD,BDD,third-party library integration, native integration, and maintaining code quality to ensure optimal performance and user experience. With a solid educational background in computer engineering, relevant work experience in Flutter && Android technologies, I am equipped to take on challenging projects and deliver high-quality mobile applications that meet client needs and exceed user expectations.</h2>
-<h3 align="center">A passionate Mobile Development,DSA and AI</h3>
+<h3 align="center">A passionate Mobile Development,ML</h3>
 
 
 
