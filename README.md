@@ -6,17 +6,15 @@
 
 <p>
 
-- 👨‍💻 ML&&Mobile Engineer(Flutter,Android).
+- 👨‍💻 ML && Mobile Engineer(Flutter,Android).
 
 - 🔭 I’m currently working at [Minnovation](https://www.minnovation.io/).
 
-- 💬 Ask me about everything, I always enjoy helping people.
+- 💬 Ask me about Flutter && Android, I always enjoy helping people.
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
-- 🔥 I like to play sports.
-
-- 🏆 "A Forja é diária.".
+- 🔥 I like to listen to music.
 
 - 📄 Documenting the entire journey.
 
