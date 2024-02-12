@@ -6,11 +6,9 @@
 
 <p>
 
-- 👨‍💻 ML && Mobile Engineer(Flutter,Android).
+- 👨‍💻 Senior Mobile Engineer(Flutter,Native Android, Native iOS).
 
-- 🔭 I’m currently working at [Minnovation](https://www.minnovation.io/).
-
-- 💬 Ask me about Flutter && Android, I always enjoy helping people.
+- 💬 Ask me about Flutter , iOS && Android, I always enjoy helping people.
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
